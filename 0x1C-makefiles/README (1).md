@@ -1,6 +1,10 @@
-0x1C. C - Makefiles
+# 0x1B.c
+In this project folder, I have learnt about:
 
+-    What are make, Makefiles
+-    When, why and how to use Makefiles
+-    What are rules and how to set and use them
+-    What are explicit and implicit rules
+-    What are the most common / useful rules
+-    What are variables and how to set and use them
 
-### Resources
-* [How to Create a Simple Makefile - Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk)
-* [A basic explanation about Make and Makefile](https://www.youtube.com/watch?v=2V-JjPaDl9k)
